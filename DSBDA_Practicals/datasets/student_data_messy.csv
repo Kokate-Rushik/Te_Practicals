@@ -1,0 +1,11 @@
+Roll_No,Student_Name,Department,Attendance_Score,Placement_Status
+101,Rishi,CS,85.0,Placed
+102,Anjali,IT,92.0,Not Placed
+103,Vikram,CS,,Placed
+104,Sneha,MECH,45.0,Not Placed
+105,Rahul,,78.0,Placed
+106,Priya,IT,88.0,Placed
+101,Rishi,CS,85.0,Placed
+108,Amit,ENTC,500.0,Not Placed
+109,Sonia,CS,72.0,
+110,Karan,,95.0,Placed
