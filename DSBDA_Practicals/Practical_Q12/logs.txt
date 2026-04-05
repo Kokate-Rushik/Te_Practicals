@@ -1,0 +1,5 @@
+INFO: System started successfully
+WARN: Memory usage at 85%
+ERROR: Database connection failed
+INFO: User logged in
+ERROR: Authentication timeout

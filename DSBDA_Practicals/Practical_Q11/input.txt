@@ -1,0 +1,1 @@
+Hadoop is finally working for Rishi. Practical 11 is almost done.
